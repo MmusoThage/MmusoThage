@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MmusoThage
 - 👀 I’m interested in python, SQL, Data Science, Mathematics and Applied Mathematics 
-- 🌱 I’m currently learning SQL and python 
 - 💞️ I’m looking to collaborate on everything and anything Data Science, Applied Math and Math
 
 <!---
