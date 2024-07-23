@@ -10,22 +10,23 @@ During my studies, I refined my ability to work with complex data and through th
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to grow expand my knowledge and skills. Whether working in a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-## Table of contents
+### Table of contents
 * About.
 * Projects.🧰🔨
 *  Python.🐍
 *  SQL.
 *  Excel.
-*  Tableu.
+*  PowerBI.
 * Education.🚌📚
 * Certifications.📜
 * Contact details.☎
 ## Projects.
 ## Education.
+* North West Uninversity - Bachelor of Science in Mathematical Science ( Majoring Mathematics and Pure Mathematics).
 ## Certifications.
 ## Contact details.
-* Linkedin: https://l1nk.dev/MmusoThage
-* Email: Mmusothage@gmail.com 
+* Linkedin: https://l1nk.dev/MmusoThage.
+* Email: Mmusothage@gmail.com .
 <!---
 MmusoThage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
