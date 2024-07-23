@@ -12,18 +12,20 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 ## Table of contents
 * About.
-* Projects.
-*  Python.
+* Projects.🧰🔨
+*  Python.🐍
 *  SQL.
 *  Excel.
 *  Tableu.
-* Education.
-* Certifications.
-* Contact details.
+* Education.🚌📚
+* Certifications.📜
+* Contact details.☎
 ## Projects.
 ## Education.
 ## Certifications.
 ## Contact details.
+* Linkedin: https://l1nk.dev/MmusoThage
+* Email: Mmusothage@gmail.com 
 <!---
 MmusoThage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
