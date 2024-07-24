@@ -13,10 +13,10 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 ### Table of contents
 * About.
 * Projects.🧰🔨
-*  Python.🐍
-*  SQL.
-*  Excel.
-*  PowerBI.
+  *  Python.🐍
+  *  SQL.
+  *  Excel.
+  *  PowerBI.
 * Education.🚌📚
 * Certifications.📜
 * Contact details.☎
