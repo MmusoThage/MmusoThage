@@ -13,7 +13,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 ### Table of contents
 * About.
 * Projects.🧰🔨
-  *  Python.🐍
+  *  Python.🐍 - https://github.com/MmusoThage/Python-projects
   *  SQL.
   *  Excel.
   *  PowerBI.
