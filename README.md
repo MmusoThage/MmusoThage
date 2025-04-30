@@ -16,10 +16,11 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
   *  Python.🐍 - https://github.com/MmusoThage/Python-projects
   *  SQL.
   *  Excel.
-  *  PowerBI.
+  *  PowerBI. - https://github.com/MmusoThage/Power-BI-Projects
 * Education.🚌📚
 * Certifications.📜
 * Contact details.☎
+* * Email: Mmusothage@gmail.com .
 ## Projects.
 ## Education.
 * North West Uninversity - Bachelor of Science in Mathematical Science ( Majoring Mathematics and Pure Mathematics).
