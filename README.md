@@ -17,6 +17,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
   *  SQL.
   *  Excel. - https://github.com/MmusoThage/Excel-Projects
   *  PowerBI. - https://github.com/MmusoThage/Power-BI-Projects
+  *  Grad Hackathon winning idea (available on request)
 * Education.🚌📚
 * Certifications.📜
 * Contact details.☎
