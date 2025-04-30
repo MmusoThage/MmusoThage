@@ -15,7 +15,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 * Projects.🧰🔨
   *  Python.🐍 - https://github.com/MmusoThage/Python-projects
   *  SQL.
-  *  Excel.
+  *  Excel. - https://github.com/MmusoThage/Excel-Projects
   *  PowerBI. - https://github.com/MmusoThage/Power-BI-Projects
 * Education.🚌📚
 * Certifications.📜
