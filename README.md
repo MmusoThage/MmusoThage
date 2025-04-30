@@ -25,6 +25,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 ## Education.
 * North West Uninversity - Bachelor of Science in Mathematical Science ( Majoring Mathematics and Pure Mathematics).
 ## Certifications.
+Due to the number these are available on request.
 ## Contact details.
 * Linkedin: https://l1nk.dev/MmusoThage.
 * Email: Mmusothage@gmail.com .
