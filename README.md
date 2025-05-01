@@ -1,4 +1,4 @@
-# Mmuso's Data Analyst Porfolio
+# Mmuso's Porfolio
 ## About
 - 👋 Hi, I’m @MmusoThage
 - 👀 I’m interested in python, SQL, Data Science, Mathematics and Applied Mathematics 
