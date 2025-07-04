@@ -4,7 +4,7 @@
 - 👀 I’m interested in python, SQL, Data Science, Mathematics and Applied Mathematics 
 - 💞️ I’m looking to collaborate on everything and anything Data Science, Applied Math and Math
 
-I have a Bachelor's degree in Mathematical Sciences, majoring in Pure Mathematics and Applied Mathematics because of this I have developed a strong foundation in Mathematics and a passion for using data to uncover meaningful insights. I am excited to use and bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+I have a Bachelor's degree in Mathematical Sciences, majoring in Pure Mathematics and Applied Mathematics because of this I have developed a strong foundation in Mathematics and a passion for using data to uncover meaningful insights. I am excited to use and bring my technical and analytical skills to the field of data science as a data specialist.
 
 During my studies, I refined my ability to work with complex data and through this rigorus process developed a keen eye for identifying patterns and trends. I also gained experience in data management, aswell as statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
